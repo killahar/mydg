@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/code/code-refactoring/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/code/code-refactoring/"}
 ---
 
 
