@@ -6,10 +6,6 @@
 
 # Digital Garden
 
-](https://mygd.vercel.app/)
-
-SearchCTRL + K
-
 ## Задание 1. Постановка задачи на разработку strapi
 
 ---
