@@ -1,24 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/api/digital-garden/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/digital-garden/api/digital-garden/"}
 ---
 
 ## Задание 1. Постановка задачи на разработку strapi
-[
-
-# ТиМП
-
-](https://gas-application.vercel.app/)
-
-API
-
-[API. Задание 1](https://gas-application.vercel.app/)
-
-[API. Задание 2](https://gas-application.vercel.app/api/api-zadanie-2/)
-
-Pattern
-
-[Паттерны. Задание 1](https://gas-application.vercel.app/pattern/patterny-zadanie-1/)
----
 
 **ФИО:** 2022-ФГиИБ-ИБ-2б Притчин Андрей
 

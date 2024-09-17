@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/code/code-refactoring/"}
+{"dg-publish":true,"permalink":"/digital-garden/code/code-refactoring/","tags":["gardenEntry"]}
 ---
 
 using SOLID_AND_OOP;
