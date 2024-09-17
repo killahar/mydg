@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/api/digital-garden/","tags":["gardenEntry"]}
 ---
 
-[ DG
 ## Задание 1. Постановка задачи на разработку strapi
 
 ---
