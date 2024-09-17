@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/code/code-refactoring/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/digital-garden/code/code-refactoring/"}
 ---
 
+
+
+```
 using SOLID_AND_OOP;
 using System;
 using System.Collections.Generic;
@@ -192,5 +195,4 @@ class Program
         }
     }
 }
-
-
+```
