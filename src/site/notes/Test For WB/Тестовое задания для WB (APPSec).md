@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/test-for-wb/testovoe-zadaniya-dlya-wb-app-sec/"}
+{"dg-publish":true,"permalink":"/test-for-wb/testovoe-zadaniya-dlya-wb-app-sec/","tags":["gardenEntry"]}
 ---
 
 Исполнитель: Притчин Андрей Александрович
@@ -111,7 +111,7 @@ if !containsDigit {
 csrfToken := strings.TrimSpace(r.FormValue("csrf_token"))
 
 if !regexp.MustCompile(`^[a-zA-Z0-9]+---
-{"dg-publish":true,"permalink":"/test-for-wb/testovoe-zadaniya-dlya-wb-app-sec/"}
+{"dg-publish":true,"permalink":"/test-for-wb/testovoe-zadaniya-dlya-wb-app-sec/","tags":["gardenEntry"]}
 ---
 
 Исполнитель: Притчин Андрей Александрович
