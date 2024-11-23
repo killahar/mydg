@@ -3,7 +3,6 @@
 ---
 
 
-
 ```
 using SOLID_AND_OOP;
 using System;

@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/test-for-wb/testovoe-zadaniya-dlya-wb-app-sec/"}
 ---
 
-[[]]
 Исполнитель: Притчин Андрей Александрович
 tg/ВК: @killahar
 Email: andreypritchin01@gmail.com
@@ -115,7 +114,6 @@ if !regexp.MustCompile(`^[a-zA-Z0-9]+---
 {"dg-publish":true,"permalink":"/test-for-wb/testovoe-zadaniya-dlya-wb-app-sec/"}
 ---
 
-[[]]
 Исполнитель: Притчин Андрей Александрович
 tg/ВК: @killahar
 Email: andreypritchin01@gmail.com
